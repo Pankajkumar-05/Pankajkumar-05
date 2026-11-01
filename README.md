@@ -1,18 +1,11 @@
 # 💫 About Me:
 Hi, I’m **Pankaj Kumar**, a BCA graduate and software/data professional focused on **Python, AI/ML, Data Analytics, and Backend Development**.
-
 <br><br>
-
 I work with **Python, SQL, PostgreSQL, Power BI, Pandas, Scikit-learn, Flask, FastAPI, and REST APIs** to build data-driven applications, AI/ML solutions, dashboards, and backend systems.
-
 <br><br>
-
 I’ve built projects across **data engineering, machine learning, Generative AI, finance, recommendation systems, and business analytics**, including RetailPulse, Smart Finance Brain, PersonaX, and AI-powered automation projects.
-
 <br><br>
-
 I enjoy solving real-world problems through **data, automation, AI, and software engineering**, and I’m always working on projects that help me build stronger practical engineering skills.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pankaj_kumar005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pankajkumar-05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pankajkumar51967@gmail.com) 
