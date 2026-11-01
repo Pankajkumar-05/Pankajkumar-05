@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hi, I’m Pankaj Kumar A, a BCA student and Data Science Intern interested in Data Analytics, Data Science, and Machine Learning.<br><br>I work with Python, SQL, Power BI, Excel, Tableau, and Machine Learning to analyze data, build dashboards, and find useful insights. I have worked on projects such as Crime Prediction and Air Quality & Health Impact Analysis.<br><br>I am currently building my skills through real-world projects and looking for opportunities to learn, contribute, and grow in the data field.<br>
+Hi, I’m **Pankaj Kumar**, a BCA graduate and software/data professional focused on **Python, AI/ML, Data Analytics, and Backend Development**.
+
+<br><br>
+
+I work with **Python, SQL, PostgreSQL, Power BI, Pandas, Scikit-learn, Flask, FastAPI, and REST APIs** to build data-driven applications, AI/ML solutions, dashboards, and backend systems.
+
+<br><br>
+
+I’ve built projects across **data engineering, machine learning, Generative AI, finance, recommendation systems, and business analytics**, including RetailPulse, Smart Finance Brain, PersonaX, and AI-powered automation projects.
+
+<br><br>
+
+I enjoy solving real-world problems through **data, automation, AI, and software engineering**, and I’m always working on projects that help me build stronger practical engineering skills.
 
 
 ## 🌐 Socials:
